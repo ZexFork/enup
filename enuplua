@@ -1,9 +1,3 @@
---[[
-    TAKA HUB | GARDEN HORIZONS
-    by Kiyotakaa
-    PART 1: Setup & Main/Game Tab
-]]
-
 -- 1. WAIT FOR GAME TO LOAD
 repeat task.wait() until game:IsLoaded()
 
